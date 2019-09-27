@@ -1,0 +1,1 @@
+The codes and dataset for the currency exchage rate prediction project of ACM-NITK
